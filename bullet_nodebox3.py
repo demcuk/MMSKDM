@@ -41,5 +41,6 @@ t=0
 xt=700
 x1t=-0.5
 s=0
+
 canvas.size = 800, 500
 canvas.run(draw)
